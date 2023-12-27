@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #222831;
+    color: #EEEEEE;
+}
+
+.white-fg {
+    color: #EEEEEE;
+    font-size: 18px;
+}
