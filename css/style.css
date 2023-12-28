@@ -7,7 +7,27 @@ body {
     color: #EEEEEE;
 }
 
-.white-fg {
-    color: #EEEEEE;
+.recipe-container {
+    background-color: #00ADB5;
+    margin: 10px 0;
+    padding: 20px;
+}
+
+.recipe {
+    color: #393E46;
     font-size: 18px;
+}
+
+.description-container, 
+.ingredients-container,
+.steps-container,
+.intro-container {
+    margin: 30px 0;
+    padding: 20px;
+    background-color: #00ADB5;
+    color:#393E46;
+}
+
+.title {
+    color: #222831;
 }
